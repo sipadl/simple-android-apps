@@ -1,0 +1,5 @@
+export const GET = 'GET'
+export const DETAIL = 'DETAIL'
+export const ADD = 'ADD'
+export const DELETE = 'DELETE'
+export const ERROR = 'ERROR'
